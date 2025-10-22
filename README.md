@@ -15,6 +15,6 @@ This project demonstrates the basic structure of a login form with modern design
 
 ## 🖼️ Preview
 Here’s how the login page looks 👇  
-![Login Page Preview](./loginpage.png)
+![Login Page Preview](./Loginpage.png)
 ## 🔗 Live Demo
 👉 [View Login Page Demo](https://<rahulswain58708>.github.io/login-page-html-css/)
